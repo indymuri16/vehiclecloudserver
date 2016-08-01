@@ -1,5 +1,0 @@
-CREATE TABLE vehlocations (
-  time     INT PRIMARY KEY AUTO_INCREMENT,
-  id VARCHAR(10) NOT NULL,
-  location VARCHAR(10) NOT NULL
-);
